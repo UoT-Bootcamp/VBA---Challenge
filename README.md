@@ -1,5 +1,5 @@
-# VBA---Challenge
-Multiple years stock - Automation using VBA
+
+# Multiple years stock - Automation using VBA
 
 In this project, we created a script that will loop through all the stocks for one year and output the following information:
 
