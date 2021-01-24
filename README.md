@@ -9,6 +9,25 @@ In this project, we created a script that will loop through all the stocks for o
 * The total stock volume of the stock.
 * We formatted the sheet using conditional formatting that will highlight positive change in green and negative change in red.
 
+
+### 2014:
+
+![img](https://github.com/UoT-Bootcamp/VBA---Challenge/blob/master/2014.png)
+
+<br>
+
+### 2015:
+
+![img](https://github.com/UoT-Bootcamp/VBA---Challenge/blob/master/2015.png)
+
+<br>
+
+### 2016:
+
+![img](https://github.com/UoT-Bootcamp/VBA---Challenge/blob/master/2016.png)
+
+<br>
+
 CHALLENGES:
 
 Below were the challenges part:
