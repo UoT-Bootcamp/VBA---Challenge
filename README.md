@@ -9,6 +9,12 @@ In this project, we created a script that will loop through all the stocks for o
 * The total stock volume of the stock.
 * We formatted the sheet using conditional formatting that will highlight positive change in green and negative change in red.
 
+CHALLENGES:
+
+Below were the challenges part:
+
+* Calculate the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
+* Make the appropriate adjustments to the VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
 ### 2014:
 
@@ -27,10 +33,3 @@ In this project, we created a script that will loop through all the stocks for o
 ![img](https://github.com/UoT-Bootcamp/VBA---Challenge/blob/master/2016.png)
 
 <br>
-
-CHALLENGES:
-
-Below were the challenges part:
-
-* Calculate the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
-* Make the appropriate adjustments to the VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
